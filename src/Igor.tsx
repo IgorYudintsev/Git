@@ -7,6 +7,7 @@ export const Igor = () => {
 
             <div>29.10.2024-9:29-IGOR</div>
             <div>29.10.2024-9:30-IGOR</div>
+            <div>29.10.2024-9:31-IGOR</div>
         </div>
     );
 };
