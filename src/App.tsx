@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import {Igor} from "./Igor";
 import {Georgy} from "./Georgy";
