@@ -10,6 +10,7 @@ function App() {
             <Igor/>
             <Georgy/>
             <Igor/>
+            <div>1.10.2024-23:10-MASTER</div>
         </div>
     );
 }
