@@ -17,8 +17,6 @@ function App() {
             <h3>{count}</h3>
 
             <button onClick={()=>setCount(count+1)}>+</button>
-
-
         </div>
     );
 }
